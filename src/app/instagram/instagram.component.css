@@ -11,5 +11,6 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  border: 10 px solid green; /*border isn't showing*/
+  border: 3px solid black;
+  padding: 3px;
 }
